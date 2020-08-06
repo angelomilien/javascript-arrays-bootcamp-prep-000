@@ -49,6 +49,6 @@ function removeElementFromBeginningOfArray(aray) {
 
 removeElementFromBeginningOfArray(chocolateBars)
 
-
+function 
 
 
