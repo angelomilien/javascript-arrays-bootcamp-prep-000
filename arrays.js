@@ -26,7 +26,7 @@ function destructivelyAddElementToEndOfArray(aray,element) {
 
 addElementToEndOfArray(chocolateBars,"foo")
 
-destructivelyAddElementToEndOfArray(chocolateBars,1)
+destructivelyAddElementToEndOfArray(chocolateBars, "foo")
 
 function accessElementInArray(aray, index) {
   return aray[index]
