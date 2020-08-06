@@ -42,9 +42,11 @@ function destructivelyRemoveElementFromBeginningOfArray(aray) {
 
 destructivelyRemoveElementFromBeginningOfArray(chocolateBars)
 
+function removeElementFromBeginningOfArray(aray) {
+  newArray
+}
 
-
-
+removeElementFromBeginningOfArray(chocolateBars)
 
 
 
